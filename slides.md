@@ -38,11 +38,12 @@ transition: slide-left
 # L'azienda
 
 La T.C.P Sistemi è un'azienda di piccole dimensioni (3 membri) situata a Fermo. <br />
-Si occupa di web hosting e soluzioni di networking aziendali <br />
+Si occupa di web hosting e soluzioni di networking aziendali. <br />
+Nelle tre settimane di PCTO ho affrantato dei problemi riguardanti entrambe le aree.
 <br />
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row; padding-top: 30px;">
   <img 
-    style="width: 20vw; height: 30vh; " 
+    style="width: 20vw; height: 30vh;" 
     src="https://fiber23.it/wp-content/uploads/2022/12/UIH-Web-Hosting-1140x731.png"/>
   <img 
     style="width: 20vw; height: 30vh; margin-left: auto; padding-right: 50px" 
@@ -50,13 +51,13 @@ Si occupa di web hosting e soluzioni di networking aziendali <br />
 </div>
 
 ---
-src: ./pages/prima_settimana/prima_settimana_intro.md
+src: ./pages/prima_settimana/prima_settimana.md
 ---
 
 ---
-src: ./pages/seconda_settimana/seconda_settimana_intro.md
+src: ./pages/seconda_settimana/seconda_settimana.md
 ---
 
 ---
-src: ./pages/terza_settimana/terza_settimana_intro.md
+src: ./pages/terza_settimana/terza_settimana.md
 ---
