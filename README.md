@@ -24,6 +24,6 @@ Si occupa di web hosting e soluzioni di networking aziendali <br />
     style="width: 20vw; height: 30vh; " 
     src="https://fiber23.it/wp-content/uploads/2022/12/UIH-Web-Hosting-1140x731.png"/>
   <img 
-    style="width: 20vw; height: 30vh; margin-left: auto; padding-right: 50px" 
+    style="width: 20vw; height: 30vh; margin-left: auto;" 
     src="https://freepngimg.com/download/computer/99450-images-computer-network-free-download-png-hd.png"/>
 </div>
