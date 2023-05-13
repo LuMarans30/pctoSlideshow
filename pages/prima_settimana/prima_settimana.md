@@ -8,9 +8,9 @@ Nella prima settimana di PCTO ho avuto modo di conoscere l'azienda e i suoi memb
 Mi è stato assegnato un progetto riguardo la documentazione delle API per accedere al database aziendale.<br /> 
 Inoltre mi hanno insegnato ad usare svariati tool come Postman e Swagger.
 
-<div style="display: flex; flex-direction: row; padding-top: 30px; gap: 70px">
+<div style="justify-content: center; display: flex; flex-direction: row; padding-top: 30px; gap: 70px">
     <img 
-        style="width: 20vw; height: 20vh;" 
+        style="width: 25vw; height: 20vh;" 
         src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"/>
     <img 
         style="width: 10vw; height: 20vh;" 
