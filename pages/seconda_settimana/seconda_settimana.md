@@ -19,8 +19,8 @@ Mi è stato chiesto di implementare un pulsante per la ricerca di un record tram
     <p class="title">React</p>
 </div>
 <img 
-        style="width: 60vh; height: 40vh;" 
-        src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png"/>
+    style="width: 60vh; height: 40vh;" 
+    src="https://cdn.syncfusion.com/content/images/company-logos/Syncfusion_Logo_Image.png"/>
 </div>
 
 <style>
