@@ -37,9 +37,8 @@ transition: slide-left
 
 # L'azienda
 
-La T.C.P Sistemi è un'azienda di piccole dimensioni (3 membri) situata a Fermo. <br />
+La T.C.P Sistemi è un'azienda di piccole dimensioni composta da tre membri situata a Fermo. <br />
 Si occupa di web hosting e soluzioni di networking aziendali. <br />
-Nelle tre settimane di PCTO ho affrantato dei problemi riguardanti entrambe le aree.
 <br />
 <div style="display: flex; flex-direction: row; padding-top: 30px;">
   <img 
@@ -49,6 +48,22 @@ Nelle tre settimane di PCTO ho affrantato dei problemi riguardanti entrambe le a
     style="width: 20vw; height: 30vh; margin-left: auto; padding-right: 50px" 
     src="https://freepngimg.com/download/computer/99450-images-computer-network-free-download-png-hd.png"/>
 </div>
+
+---
+transition: slide-left
+---
+
+# Cosa ho fatto ?
+    
+
+Nel corso delle tre settimane ho svolto dei lavori sui progetti aziendali<br /><br />
+Più nello specifico ho lavorato nelle seguenti aree:<br />
+- <codicon-terminal-cmd /> Networking (Comandi DOS per le reti)
+- <logos-swagger /> Documentazione API con Swagger e NSwagStudio
+- <logos-react /> Sviluppo web 
+
+<br />
+Inoltre ho avuto modo di acquisire nuove conoscenze riguardo gli Hypervisor (virtualizzazione) e sulla gestione di piccole reti aziendali.
 
 ---
 src: ./pages/prima_settimana/prima_settimana.md
