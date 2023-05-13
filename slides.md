@@ -38,7 +38,7 @@ transition: slide-left
 # L'azienda
 
 La T.C.P Sistemi è un'azienda di piccole dimensioni composta da tre membri situata a Fermo. <br />
-Si occupa di web hosting e soluzioni di networking aziendali. <br />
+Si occupa principalmente di web hosting e soluzioni di networking aziendali. <br />
 <br />
 <div style="display: flex; flex-direction: row; padding-top: 30px;">
   <img 
