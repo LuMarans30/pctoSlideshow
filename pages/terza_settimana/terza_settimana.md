@@ -6,6 +6,7 @@ transition: slide-up
 
 Nella terza settimana di PCTO ho continuato a lavorare sul progetto riguardante il frontend del sito web.<br />
 Ho creato una pagina contenente una mappa che utilizza le Google Maps API.<br />
+Nonostante qualche problema di implementazione, dovuto a dei conflitti con gli altri componenti della pagina, sono riuscito ad integrarla entro la fine della settimana.<br />
 
 <div style="justify-content: center; display: flex; flex-direction: row; padding-top: 30px; gap: 70px">
     <img 
