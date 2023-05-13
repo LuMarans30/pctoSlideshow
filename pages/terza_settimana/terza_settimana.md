@@ -7,8 +7,8 @@ transition: slide-up
 Nella terza settimana di PCTO ho continuato a lavorare sul progetto riguardante il frontend del sito web.<br />
 Ho creato una pagina contenente una mappa che utilizza le Google Maps API.<br />
 
-<div style="display: flex; flex-direction: row; padding-top: 30px">
-    <img style="width: 50vh; height: 25vh;"
+<div style="display: flex; flex-direction: row; padding-top: 30px; gap: 50px">
+    <img style="width: 40vh; height: 20vh;"
         src="https://www.intelligencepartner.com/wp-content/uploads/2018/05/Google-Maps-Platform-Lockup-Vert-png-768x372.png" />
-    <iframe width="450px" height="350px" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d469.85715651353433!2d13.675978589605197!3d43.16822997148743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13320efa064725d9%3A0xd8591cbaecbcbc81!2sT.C.P.%20Sistemi%20di%20Ciucani%20Governatori%20Paolo%20%26%20C.%20S.n.c.!5e1!3m2!1sit!2sit!4v1683966177153!5m2!1sit!2sit" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe width="450px" height="350px" src="https://www.google.com/maps/embed?pb=!4v1683966659484!6m8!1m7!1sVPSQl6c_fs4fZxm3-xzIqg!2m2!1d43.16810851884996!2d13.67623060678643!3f345.4018074014623!4f-4.74316914110193!5f2.8221342433566154" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
