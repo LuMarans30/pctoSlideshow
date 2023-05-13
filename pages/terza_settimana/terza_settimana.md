@@ -11,6 +11,6 @@ Ho creato una pagina contenente una mappa che utilizza le Google Maps API.<br />
     <img style="width: 50vh; height: 25vh;"
         src="https://www.intelligencepartner.com/wp-content/uploads/2018/05/Google-Maps-Platform-Lockup-Vert-png-768x372.png" />
     <iframe width="450px" height="350px" frameborder="0" title="map" scrolling="no"
-        src="https://maps.google.com/maps?q=Marche&amp;maptype=satellite&amp;output=embed">
+        src="https://maps.google.com/maps?q=T.C.P.%20Sistemi%20di%20Ciucani%20Governatori%20Paolo%20%26%20C.%20S.n.c.&amp;maptype=satellite&amp;output=embed">
     </iframe>
 </div>
