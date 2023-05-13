@@ -61,7 +61,7 @@ Mi è stato chiesto di implementare un pulsante per la ricerca di un record tram
 Nella terza settimana di PCTO ho continuato a lavorare sul progetto riguardante il frontend del sito web.<br />
 Ho creato una pagina contenente una mappa che utilizza le Google Maps API.<br />
 
-    <img 
+   <img 
         style="width: 50vh; height: 25vh;" 
         src="https://www.intelligencepartner.com/wp-content/uploads/2018/05/Google-Maps-Platform-Lockup-Vert-png-768x372.png"
     />
