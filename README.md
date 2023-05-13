@@ -64,5 +64,5 @@ Ho creato una pagina contenente una mappa che utilizza le Google Maps API.<br />
 <div style="justify-content: center; display: flex; flex-direction: row; padding-top: 30px; gap: 70px">
     <img 
         style="width: 40vh; height: 20vh;" 
-        src="https://injenia.it/assets/GMP_Logo_Github.png"/>
+        src="https://www.intelligencepartner.com/wp-content/uploads/2018/05/Google-Maps-Platform-Lockup-Vert-png-768x372.png"/>
 </div>
